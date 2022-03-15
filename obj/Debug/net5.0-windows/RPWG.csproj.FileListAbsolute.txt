@@ -1,0 +1,17 @@
+C:\Users\SeanMoon\Desktop\Doc\Project\RPWG\bin\Debug\net5.0-windows\RPWG.exe
+C:\Users\SeanMoon\Desktop\Doc\Project\RPWG\bin\Debug\net5.0-windows\RPWG.deps.json
+C:\Users\SeanMoon\Desktop\Doc\Project\RPWG\bin\Debug\net5.0-windows\RPWG.runtimeconfig.json
+C:\Users\SeanMoon\Desktop\Doc\Project\RPWG\bin\Debug\net5.0-windows\RPWG.runtimeconfig.dev.json
+C:\Users\SeanMoon\Desktop\Doc\Project\RPWG\bin\Debug\net5.0-windows\RPWG.dll
+C:\Users\SeanMoon\Desktop\Doc\Project\RPWG\bin\Debug\net5.0-windows\ref\RPWG.dll
+C:\Users\SeanMoon\Desktop\Doc\Project\RPWG\bin\Debug\net5.0-windows\RPWG.pdb
+C:\Users\SeanMoon\Desktop\Doc\Project\RPWG\obj\Debug\net5.0-windows\RPWG.RPWG.resources
+C:\Users\SeanMoon\Desktop\Doc\Project\RPWG\obj\Debug\net5.0-windows\RPWG.csproj.GenerateResource.cache
+C:\Users\SeanMoon\Desktop\Doc\Project\RPWG\obj\Debug\net5.0-windows\RPWG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SeanMoon\Desktop\Doc\Project\RPWG\obj\Debug\net5.0-windows\RPWG.AssemblyInfoInputs.cache
+C:\Users\SeanMoon\Desktop\Doc\Project\RPWG\obj\Debug\net5.0-windows\RPWG.AssemblyInfo.cs
+C:\Users\SeanMoon\Desktop\Doc\Project\RPWG\obj\Debug\net5.0-windows\RPWG.csproj.CoreCompileInputs.cache
+C:\Users\SeanMoon\Desktop\Doc\Project\RPWG\obj\Debug\net5.0-windows\RPWG.dll
+C:\Users\SeanMoon\Desktop\Doc\Project\RPWG\obj\Debug\net5.0-windows\ref\RPWG.dll
+C:\Users\SeanMoon\Desktop\Doc\Project\RPWG\obj\Debug\net5.0-windows\RPWG.pdb
+C:\Users\SeanMoon\Desktop\Doc\Project\RPWG\obj\Debug\net5.0-windows\RPWG.genruntimeconfig.cache
